@@ -1,4 +1,4 @@
-.python-27-clock {
+.clock {
     width: 90%;
     margin-right: auto;
     margin-left: auto;
@@ -30,4 +30,11 @@ body {
 
 .guido-button-block, .guido-button-block > button {
     font-size: 8px;
+}
+
+.original-attr {
+    font-size: 12px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
 }
